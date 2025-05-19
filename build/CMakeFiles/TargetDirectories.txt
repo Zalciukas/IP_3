@@ -1,0 +1,4 @@
+/Users/augis/Documents/cpp/IP_3/build/CMakeFiles/membership_system.dir
+/Users/augis/Documents/cpp/IP_3/build/CMakeFiles/notification_test.dir
+/Users/augis/Documents/cpp/IP_3/build/CMakeFiles/edit_cache.dir
+/Users/augis/Documents/cpp/IP_3/build/CMakeFiles/rebuild_cache.dir
